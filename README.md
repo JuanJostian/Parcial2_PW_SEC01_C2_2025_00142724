@@ -1,1 +1,3 @@
-# Parcial2_PW_SEC01_C2_2025_00142724
+# Parcial 02
+Autor: Juan Carlos Flores Melara 00142724
+Seccion 01
